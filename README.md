@@ -1,26 +1,29 @@
 # digipet
-Make a digital hamster with RP2040 and GC9A01 LCD
-Connect a RP2040 with TFT gc9a01 as:
 
-reset_pin = 14
+<img src="/hamster1.gif?raw=true" alt="digipet" title="hamster" width="25%">
+Copyright (c) 2025 radikalbytes<br>
+Written by A. Prado<br>
+radikalbytes@gmail.com<br>
 
-cs_pin = 10
+### Make a digital hamster with RP2040 and GC9A01 LCD <br>
 
-dc_pin = 9
+Connect a RP2040 with TFT gc9a01 as:<br>
+- reset_pin = 14<br>
+- cs_pin = 10<br>
+- dc_pin = 9<br>
+- sck_pin = 12<br>
+- mosi_pin = 11<br>
+<img src="/pinout.jpg?raw=true" alt="pinout" title="pinout" width="50%">
 
-sck_pin = 12
+<img src="/gc9a01.jpg?raw=true" alt="gc9a01" title="gc9a01" width="50%">
 
-mosi_pin = 11
+- **Upload firmware micropython_RP2040+gc9a01 (firmware.uf2) to RP2040** <br>
+- **Upload with Thonny IDE main.py and /frames_bin to / in RP2040** <br>
 
-Upload firmware micropython_RP2040+gc9a01 (firmware.uf2) to RP2040
+### 3D printed parts
 
-Upload with Thonny IDE main.py and /frames_bin to / in RP2040
+Print all grid cage parts and assemble with loctite super glue<br>
+Print all remain parts, put your circuit and LCD inside wheel and wheel support.<br>
+Connect to USB and enjoy you new digital pet running endless <br>
 
-# 3D printed parts
-
-Print all grid cage parts and assemble with loctite super glue
-
-Print all remain parts, put your circuit and LCD inside wheel and wheel support.
-
-Connect to USB and enjoy you new digital pet running endless 
-
+<video src="video.MP4" width="320" controls autoplay loop muted></video>
