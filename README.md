@@ -26,4 +26,4 @@ Print all grid cage parts and assemble with loctite super glue<br>
 Print all remain parts, put your circuit and LCD inside wheel and wheel support.<br>
 Connect to USB and enjoy you new digital pet running endless <br>
 
-<video src="video.MP4" width="320" controls autoplay loop muted></video>
+<img src="/video-ezgif.com-resize.gif?raw=true" alt="digipet" title="hamster" width="25%">
